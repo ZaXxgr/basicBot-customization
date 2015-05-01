@@ -102,7 +102,7 @@
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
-        website: null,
+        website: https://www.facebook.com/pages/Psychillium/308619032640321?fref=ts,
         intervalMessages: [],
         messageInterval: 5,
         songstats: true,
