@@ -57,8 +57,8 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "AngryBot",
         language: "english",
-        startupCap: 1, // 1-200
-        startupVolume: 0, // 0-100
+        startupCap:100, // 1-200
+        startupVolume:20, // 0-100
         startupEmoji: true, // true or false
         cmdDeletion: true,
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
@@ -92,7 +92,7 @@
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
         motdEnabled: false,
-        motdInterval: 5,
+        motdInterval: 10,
         motd: "Temporary Message of the Day",
         filterChat: true,
         etaRestriction: false,
