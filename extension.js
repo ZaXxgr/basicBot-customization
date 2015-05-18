@@ -55,7 +55,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "AngryBot",
+        botName: "ZaXx",
         language: "english",
         startupCap:100, // 1-200
         startupVolume:20, // 0-100
