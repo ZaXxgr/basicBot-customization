@@ -93,7 +93,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: true,
         motdInterval: 10,
-        motd: "Bot Commands https://github.com/Yemasthui/basicBot/blob/master/commands.md",
+        motd: "Just #woot it! :NoBones: :KarateDance: :MarioJackson:",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
