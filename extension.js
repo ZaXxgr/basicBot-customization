@@ -58,7 +58,7 @@
         botName: "ZaXx",
         language: "english",
         startupCap:100, // 1-200
-        startupVolume:20, // 0-100
+        startupVolume:22, // 0-100
         startupEmoji: true, // true or false
         cmdDeletion: true,
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
@@ -75,11 +75,11 @@
         voteSkip: false,
         voteSkipLimit: 10,
         timeGuard: true,
-        maximumSongLength: 10,
+        maximumSongLength: 16,
         autodisable: true,
         commandCooldown: 30,
         usercommandsEnabled: true,
-        lockskipPosition: 3,
+        lockskipPosition: 1,
         lockskipReasons: [
             ["theme", "This song does not fit the room theme. "],
             ["op", "This song is on the OP list. "],
